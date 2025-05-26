@@ -30,10 +30,10 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
-    bfzy: {
-        api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '暴风资源',
-    },
+    //bfzy: {
+    //    api: 'https://bfzyapi.com/api.php/provide/vod',
+    //    name: '暴风资源',
+    //},
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
