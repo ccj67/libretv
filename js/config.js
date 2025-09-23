@@ -224,6 +224,7 @@ const API_SITES = {
     api_29: {
         name: 'TV-电影天堂资源',
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+    },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
