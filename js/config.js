@@ -109,6 +109,121 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    api_1: {
+        name: TV-1080资源',
+        api: 'https://api.1080zyku.com/inc/api_mac10.php',
+    },
+    api_2: {
+        name: 'AV-155资源',
+        api: 'https://155api.com/api.php/provide/vod',
+    },
+    api_3: {
+        name: 'TV-360资源',
+        api: 'https://360zy.com/api.php/provide/vod',
+    },
+    api_4: {
+        name: 'TV-CK资源',
+        api: 'https://ckzy.me/api.php/provide/vod',
+    },
+    api_5: {
+        name: 'TV-U酷资源',
+        api: 'https://api.ukuapi.com/api.php/provide/vod',
+    },
+    api_6: {
+        name: 'TV-U酷资源',
+        api: 'https://api.ukuapi88.com/api.php/provide/vod',
+    },
+    api_7: {
+        name: 'TV-ikun资源',
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+    },
+    api_8: {
+        name: 'TV-wujinapi无尽',
+        api: 'https://api.wujinapi.cc/api.php/provide/vod',
+    },
+    api_9: {
+        name: 'TV-丫丫点播',
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+    },
+    api_10: {
+        name: 'TV-光速资源',
+        api: 'https://api.guangsuapi.com/api.php/provide/vod',
+    },
+    api_11: {
+        name: 'TV-卧龙点播',
+        api: 'https://collect.wolongzyw.com/api.php/provide/vod',
+    },
+    api_12: {
+        name: 'TV-卧龙资源',
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
+    },
+    api_13: {
+        name: 'TV-卧龙资源',
+        api: 'https://wolongzyw.com/api.php/provide/vod',
+    },
+    api_14: {
+        name: 'TV-天涯资源',
+        api: 'https://tyyszy.com/api.php/provide/vod',
+    },
+    api_15: {
+        name: 'TV-如意资源',
+        api: 'https://cj.rycjapi.com/api.php/provide/vod',
+    },
+    api_16: {
+        name: 'TV-小猫咪资源',
+        api: 'https://zy.xmm.hk/api.php/provide/vod',
+    },
+    api_17: {
+        name: 'TV-新浪点播',
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+    },
+    api_18: {
+        name: 'TV-无尽资源',
+        api: 'https://api.wujinapi.com/api.php/provide/vod',
+    },
+    api_19: {
+        name: 'TV-无尽资源',
+        api: 'https://api.wujinapi.me/api.php/provide/vod',
+    },
+    api_20: {
+        name: 'TV-无尽资源',
+        api: 'https://api.wujinapi.net/api.php/provide/vod',
+    },
+    api_21: {
+        name: 'TV-旺旺短剧',
+        api: 'https://wwzy.tv/api.php/provide/vod',
+    },
+    api_22: {
+        name: 'TV-旺旺资源',
+        api: 'https://api.wwzy.tv/api.php/provide/vod',
+    },
+    api_23: {
+        name: 'TV-暴风资源',
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+    },
+    api_24: {
+        name: 'TV-最大点播',
+        api: 'http://zuidazy.me/api.php/provide/vod',
+    },
+    api_25: {
+        name: 'TV-最大资源',
+        api: 'https://api.zuidapi.com/api.php/provide/vod',
+    },
+    api_26: {
+        name: 'TV-樱花资源',
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+    },
+    api_27: {
+        name: 'TV-步步高资源',
+        api: 'https://api.yparse.com/api/json,
+    },
+    api_28: {
+        name: 'TV-牛牛点播',
+        api: 'https://api.niuniuzy.me/api.php/provide/vod',
+    },
+    api_29: {
+        name: 'TV-电影天堂资源',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
