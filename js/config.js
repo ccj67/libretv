@@ -209,6 +209,22 @@ const API_SITES = {
         name: 'TV-最大资源',
         api: 'https://api.zuidapi.com/api.php/provide/vod',
     },
+    api_26: {
+        name: 'TV-樱花资源',
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+    },
+    api_27: {
+        name: 'TV-步步高资源',
+        api: 'https://api.yparse.com/api/json',
+    },
+    api_28: {
+        name: 'TV-牛牛点播',
+        api: 'https://api.niuniuzy.me/api.php/provide/vod',
+    },
+    api_29: {
+        name: 'TV-电影天堂资源',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+    },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
