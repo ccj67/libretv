@@ -125,6 +125,30 @@ const API_SITES = {
         name: 'TV-CK资源',
         api: 'https://ckzy.me/api.php/provide/vod',
     },
+    api_5: {
+        name: 'TV-U酷资源',
+        api: 'https://api.ukuapi.com/api.php/provide/vod',
+    },
+    api_6: {
+        name: 'TV-U酷资源',
+        api: 'https://api.ukuapi88.com/api.php/provide/vod',
+    },
+    api_7: {
+        name: 'TV-ikun资源',
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+    },
+    api_8: {
+        name: 'TV-wujinapi无尽',
+        api: 'https://api.wujinapi.cc/api.php/provide/vod',
+    },
+    api_9: {
+        name: 'TV-丫丫点播',
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+    },
+    api_10: {
+        name: 'TV-光速资源',
+        api: 'https://api.guangsuapi.com/api.php/provide/vod',
+    },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
