@@ -110,7 +110,7 @@ const API_SITES = {
         name: 'iKun资源'
     },
     api_1: {
-        name: TV-1080资源',
+        name: 'TV-1080资源',
         api: 'https://api.1080zyku.com/inc/api_mac10.php',
     },
     api_2: {
