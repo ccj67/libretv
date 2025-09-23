@@ -193,6 +193,22 @@ const API_SITES = {
         name: 'TV-旺旺短剧',
         api: 'https://wwzy.tv/api.php/provide/vod',
     },
+    api_22: {
+        name: 'TV-旺旺资源',
+        api: 'https://api.wwzy.tv/api.php/provide/vod',
+    },
+    api_23: {
+        name: 'TV-暴风资源',
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+    },
+    api_24: {
+        name: 'TV-最大点播',
+        api: 'http://zuidazy.me/api.php/provide/vod',
+    },
+    api_25: {
+        name: 'TV-最大资源',
+        api: 'https://api.zuidapi.com/api.php/provide/vod',
+    },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
