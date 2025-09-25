@@ -465,7 +465,50 @@ const API_SITES = {
         api: 'https://dadiapi.com/api.php/provide/vod',
         name: '大地资源网络',
     },
-    
+    //huangseziy: {
+    //    api: 'https://hsckzy888.com/api.php/provide/vod',
+    //    name: '黄色资源啊啊',
+    //},
+    //xiaojiziy: {
+    //    api: 'https://api.xiaojizy.live/provide/vod',
+    //    name: '小鸡资源',
+    //},
+    kauicheziyuan: {
+        api: 'https://caiji.kuaichezy.org/api.php/provide',
+        name: '快车资源阿',
+    },
+    xinlangaa: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源阿',
+    },
+    //lajiaoziyu: {
+    //    api: 'https://apilj.com/api.php/provide,
+    //    name: '辣椒资源黄黄',
+    //},
+    youzhidianying: {
+        api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
+        name: '优质资源库1080zyk6.com高清',
+    },
+    iqiyi: {
+        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        name: 'iqiyi资源',
+    },
+    //xibaocaiji: {
+    //    api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+    //    name: '细胞采集黄色',
+    //},
+    qiqiqiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七影视',
+    },
+    yingshigongchang: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂',
+    },
+    fantuanyingshi: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视',
+    },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
