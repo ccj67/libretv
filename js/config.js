@@ -225,6 +225,179 @@ const API_SITES = {
         name: 'TV-电影天堂资源',
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
     },
+    //api_30: {
+    //    name: 'AV-百万资源',
+    //    api: 'https://api.bwzyz.com/api.php/provide/vod',
+    //},
+    api_31: {
+        name: 'TV-百度云资源',
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+    },
+    api_32: {
+        name: 'TV-神马云',
+        api: 'https://api.1080zyku.com/inc/apijson.php/',
+    },
+    api_33: {
+        name: 'TV-索尼资源',
+        api: 'https://suoniapi.com/api.php/provide/vod',
+    },
+    api_34: {
+        name: 'TV-红牛资源',
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+    },
+    api_35: {
+        name: 'TV-茅台资源',
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+    },
+    api_36: {
+        name: 'TV-虎牙资源',
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+    },
+    api_37: {
+        name: 'TV-豆瓣资源',
+        api: 'https://caiji.dbzy.tv/api.php/provide/vod',
+    },
+    api_38: {
+        name: 'TV-豆瓣资源',
+        api: 'https://dbzy.tv/api.php/provide/vod',
+    },
+    api_39: {
+        name: 'TV-豪华资源',
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+    },
+    api_40: {
+        name: 'TV-速博资源',
+        api: 'https://subocaiji.com/api.php/provide/vod',
+    },
+    api_41: {
+        name: 'TV-量子资源',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+    },
+    api_42: {
+        name: 'TV-金鹰点播',
+        api: 'https://jinyingzy.com/api.php/provide/vod',
+    },
+    api_43: {
+        name: 'TV-金鹰资源',
+        api: 'https://jyzyapi.com/api.php/provide/vod',
+    },
+    api_44: {
+        name: 'TV-閃電资源',
+        api: 'https://sdzyapi.com/api.php/provide/vod',
+    },
+    api_45: {
+        name: 'TV-非凡资源',
+        api: 'https://cj.ffzyapi.com/api.php/provide/vod',
+    },
+    api_46: {
+        name: 'TV-飘零资源',
+        api: 'https://p2100.net/api.php/provide/vod',
+    },
+    api_47: {
+        name: 'TV-魔爪资源',
+        api: 'https://mozhuazy.com/api.php/provide/vod',
+    },
+    api_48: {
+        name: 'TV-魔都动漫',
+        api: 'https://caiji.moduapi.cc/api.php/provide/vod',
+    },
+    api_49: {
+        name: 'TV-魔都资源',
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+    },
+    api_50: {
+        name: 'TV-黑木耳',
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+    },
+    api_51: {
+        name: 'TV-黑木耳点播',
+        api: 'https://json02.heimuer.xyz/api.php/provide/vod',
+    },
+    //api_52: {
+    //    name: 'AV-91麻豆',
+    //    api: 'https://91md.me/api.php/provide/vod',
+    //},
+    //api_53: {
+    //    name: 'AV-AIvin',
+    //    api: http://lbapiby.com/api.php/provide/vod',
+    //},
+    //api_54: {
+    //    name: 'AV-JKUN资源',
+    //    api: 'https://jkunzyapi.com/api.php/provide/vod',
+    //},
+    //api_55: {
+    //    name: 'AV-souav资源',
+    //    api: 'https://api.souavzy.vip/api.php/provide/vod',
+    //},
+    //api_56: {
+    //    name: 'AV-乐播资源',
+    //    api: 'https://lbapi9.com/api.php/provide/vod',
+    //},
+    //api_57: {
+    //    name: 'AV-奥斯卡资源',
+    //    api: 'https://aosikazy.com/api.php/provide/vod',
+    //},
+    //api_58: {
+    //    name: 'AV-奶香香',
+    //    api: 'https://Naixxzy.com/api.php/provide/vod',
+    //},
+    //api_59: {
+    //    name: 'AV-森林资源',
+    //    api: 'https://slapibf.com/api.php/provide/vod',
+    //},
+    //api_60: {
+    //    name: 'AV-淫水机资源',
+    //    api: 'https://www.xrbsp.com/api/json.php,
+    //},
+    //api_61: {
+    //    name: 'AV-玉兔资源',
+    //    api: 'https://apiyutu.com/api.php/provide/vod',
+    //},
+    //api_62: {
+    //    name: 'AV-番号资源',
+    //    api: http://fhapi9.com/api.php/provide/vod',
+    //},
+    //api_63: {
+    //    name: 'AV-白嫖资源',
+    //    api: 'https://www.kxgav.com/api/json.php,
+    //},
+    //api_64: {
+    //    name: 'AV-精品资源',
+    //    api: 'https://www.jingpinx.com/api.php/provide/vod',
+    //},
+    //api_65: {
+    //    name: 'AV-美少女资源',
+    //    api: 'https://www.msnii.com/api/json.php,
+    //},
+    //api_66: {
+    //    name: 'AV-老色逼资源',
+    //    api: 'https://apilsbzy1.com/api.php/provide/vod',
+    //},
+    //api_67: {
+    //    name: 'AV-色南国',
+    //    api: 'https://api.sexnguon.com/api.php/provide/vod',
+    //},
+    //api_68: {
+    //    name: 'AV-色猫资源',
+    //    api: 'https://api.maozyapi.com/inc/apijson_vod.php,
+    //},
+    //api_69: {
+    //    name: 'AV-辣椒资源',
+    //    api: 'https://apilj.com/api.php/provide/vod',
+    //},
+    //api_70: {
+    //    name: 'AV-香奶儿资源',
+    //    api: 'https://www.gdlsp.com/api/json.php,
+    //},
+    //api_71: {
+    //    name: 'AV-鲨鱼资源',
+    //    api: 'https://shayuapi.com/api.php/provide/vod',
+    //},
+    //api_72: {
+    //    name: 'AV-黄AV资源',
+    //    api: 'https://www.pgxdy.com/api/json.php,
+    //},
+    
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
     //    name: '空内容测试源',
