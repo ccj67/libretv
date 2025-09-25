@@ -429,10 +429,6 @@ const API_SITES = {
         api: 'https://slapibf.com/api.php/provide/vod',
         name: '森林资源',
     },
-    aiduanjucc: {
-        api: 'https://www.aiduanju.cc/',
-        name: '爱短剧.cc',
-    },
     huaweiba: {
         api: 'https://huawei8.live/api.php/provide/vod',
         name: '华为吧资源',
