@@ -430,7 +430,7 @@ const API_SITES = {
         name: '森林资源',
     },
     aiduanjucc: {
-        api: 'https://www.aiduanju.cc/,
+        api: 'https://www.aiduanju.cc/',
         name: '爱短剧.cc',
     },
     huaweiba: {
