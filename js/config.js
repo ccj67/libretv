@@ -397,6 +397,78 @@ const API_SITES = {
     //    name: 'AV-黄AV资源',
     //    api: 'https://www.pgxdy.com/api/json.php,
     //},
+    ffzynew: {
+        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡影视new',
+    },
+    jisu: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速资源',
+    },
+    mozhua: {
+        api: 'https://mozhuazy.com/api.php/provide/vod',
+        name: '魔爪资源',
+    },
+    mdzy: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都资源',
+    },
+    kauiboziyuan: {
+        api: 'https://gayapi.com/api.php/provide/vod',
+        name: '快播资源网站',
+    },
+    xingbaziyuan: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源',
+    },
+    liangziziyuan: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子资源',
+    },
+    senlinziyuan: {
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: '森林资源',
+    },
+    aiduanjucc: {
+        api: 'https://www.aiduanju.cc/,
+        name: '爱短剧.cc',
+    },
+    huaweiba: {
+        api: 'https://huawei8.live/api.php/provide/vod',
+        name: '华为吧资源',
+    },
+    taopian: {
+        api: 'https://taopianapi.com/cjapi/sda/vod',
+        name: '淘片资源',
+    },
+    hongniuziyuan: {
+        api: 'https://www.hongniuzy3.com/api.php/provide/vod',
+        name: '红牛资源',
+    },
+    suonisandian: {
+        api: 'https://xsd.sdzyapi.com/api.php/provide/vod',
+        name: '索尼-闪电资源',
+    },
+    yayaziyuan: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+        name: '鸭鸭资源',
+    },
+    jinyingziyuan: {
+        api: 'https://jyzyapi.com/provide/vod',
+        name: '金鹰资源采集网',
+    },
+    fengchao: {
+        api: 'https://api.fczy888.me/api.php/provide/vod',
+        name: '蜂巢片库',
+    },
+    jinmaziyuan2: {
+        api: 'https://api.jmzy.com/api.php/provide/vod',
+        name: '金马资源网',
+    },
+    dadiziy: {
+        api: 'https://dadiapi.com/api.php/provide/vod',
+        name: '大地资源网络',
+    },
     
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
